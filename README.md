@@ -20,6 +20,7 @@ See [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.co
 # Links
 
 * [.NET Conf](https://www.dotnetconf.net/ ".NET Conf")
+* [.NET Fiddle](https://dotnetfiddle.net/ ".NET Fiddle")
 * [.NET Foundation](https://dotnetfoundation.org/ ".NET Foundation")
 * [BASTA!](https://basta.net/ "BASTA!")
 * [Channel 9](https://channel9.msdn.com/ "Channel 9")
