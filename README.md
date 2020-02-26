@@ -1,6 +1,8 @@
 # C# Examples
 
-Collection of C# code examples.
+Collection of C# code examples. [https://gravatar.com/mneiferbag](https://gravatar.com/mneiferbag)
+
+License see file LICENSE.
 
 # .NET Core SDK
 
@@ -20,8 +22,10 @@ See [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.co
 # Links
 
 * [.NET Conf](https://www.dotnetconf.net/ ".NET Conf")
+* [.NET Decompiler - ILSpy](https://github.com/icsharpcode/ILSpy ".NET Decompiler")
 * [.NET Fiddle](https://dotnetfiddle.net/ ".NET Fiddle")
 * [.NET Foundation](https://dotnetfoundation.org/ ".NET Foundation")
+* [C# Pad](https://csharppad.com/ "C# Pad")
 * [BASTA!](https://basta.net/ "BASTA!")
 * [Channel 9](https://channel9.msdn.com/ "Channel 9")
 * [Microsoft .NET](https://dotnet.microsoft.com/ "Microsoft .NET")
