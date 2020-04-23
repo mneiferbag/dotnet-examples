@@ -2,9 +2,11 @@
 
 Collection of C# code examples. [https://gravatar.com/mneiferbag](https://gravatar.com/mneiferbag)
 
-License see file LICENSE.
+Licensed under the MIT License. See file LICENSE.
 
-# .NET Core SDK
+## .NET Core SDK
+
+The examples assume, that you have .NET Core SDK installed.
 
 To replace .NET Core SDK on Ubuntu, for example replace 3.0 with 3.1, do:
 
@@ -19,7 +21,7 @@ To replace .NET Core SDK on Ubuntu, for example replace 3.0 with 3.1, do:
 
 See [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-package-manager-ubuntu-1804) on [Microsoft Docs](https://docs.microsoft.com/).
 
-# Links
+## Links
 
 * [.NET Conf](https://www.dotnetconf.net/ ".NET Conf")
 * [.NET Decompiler - ILSpy](https://github.com/icsharpcode/ILSpy ".NET Decompiler")
@@ -32,3 +34,4 @@ See [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.co
 * [Microsoft Azure](https://azure.microsoft.com/ "Microsoft Azure")
 * [Microsoft Developer](https://developer.microsoft.com/ "Microsoft Developer")
 * [Microsoft Docs](https://docs.microsoft.com/ "Microsoft Docs")
+
