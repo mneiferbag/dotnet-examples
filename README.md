@@ -1,12 +1,12 @@
-# C# Examples
-
-Collection of C# code examples. [https://gravatar.com/mneiferbag](https://gravatar.com/mneiferbag)
+# Microsoft .NET Development Examples
 
 Licensed under the MIT License. See file LICENSE.
 
+Collection of Microsoft .NET development examples. Examples include code written in C#.
+
 ## .NET Core SDK
 
-The examples assume, that you have .NET Core SDK installed.
+The examples assume, that you have .NET Core SDK installed. You might want to have a look at Microsoft [Visual Studio Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview) to create a platform independent development environment.
 
 To replace .NET Core SDK on Ubuntu, for example replace 3.0 with 3.1, do:
 
@@ -20,6 +20,10 @@ To replace .NET Core SDK on Ubuntu, for example replace 3.0 with 3.1, do:
 8. Update your .csproj files and rebuild.
 
 See [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-package-manager-ubuntu-1804) on [Microsoft Docs](https://docs.microsoft.com/).
+
+## Tips
+
+Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get content from a web page on the internet. Like `curl` or `wget` on Linux.
 
 ## Links
 
@@ -35,4 +39,3 @@ See [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.co
 * [Microsoft Developer](https://developer.microsoft.com/ "Microsoft Developer")
 * [Microsoft Docs](https://docs.microsoft.com/ "Microsoft Docs")
 * [TestStack.White](https://teststackwhite.readthedocs.io/en/latest/ "TestStack.White")
-
