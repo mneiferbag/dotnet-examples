@@ -39,5 +39,6 @@ Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get c
 * [Microsoft Developer](https://developer.microsoft.com/ "Microsoft Developer")
 * [Microsoft Docs](https://docs.microsoft.com/ "Microsoft Docs")
 * [NuGet](https://www.nuget.org/) is the package manager for .NET
-* [Playwright](https://playwright.dev/) end-to-end testing for web apps
-* [TestStack.White](https://teststackwhite.readthedocs.io/en/latest/ "TestStack.White")
+* Testing
+  * [Playwright](https://playwright.dev/) end-to-end testing for web apps
+  * [TestStack.White](https://teststackwhite.readthedocs.io/en/latest/ "TestStack.White")
