@@ -2,7 +2,9 @@
 
 Licensed under the MIT License. See file LICENSE.
 
-Collection of Microsoft .NET development examples. Examples include code written in C#.
+Collection of Microsoft .NET development examples. Examples include code written in C#, F#.
+
+[![CodeQL](https://github.com/mneiferbag/csharp-examples/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/mneiferbag/csharp-examples/actions/workflows/codeql-analysis.yml)
 
 ## .NET Core SDK
 
@@ -27,18 +29,22 @@ Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get c
 
 ## Links
 
-* [.NET Conf](https://www.dotnetconf.net/ ".NET Conf")
-* [.NET Decompiler - ILSpy](https://github.com/icsharpcode/ILSpy ".NET Decompiler")
-* [.NET Fiddle](https://dotnetfiddle.net/ ".NET Fiddle")
-* [.NET Foundation](https://dotnetfoundation.org/ ".NET Foundation")
-* [BASTA!](https://basta.net/ "BASTA!")
-* [C# Pad](https://csharppad.com/ "C# Pad")
-* [Channel 9](https://channel9.msdn.com/ "Channel 9")
-* [Microsoft .NET](https://dotnet.microsoft.com/ "Microsoft .NET")
-* [Microsoft Azure](https://azure.microsoft.com/ "Microsoft Azure")
-* [Microsoft Developer](https://developer.microsoft.com/ "Microsoft Developer")
-* [Microsoft Docs](https://docs.microsoft.com/ "Microsoft Docs")
-* [NuGet](https://www.nuget.org/) is the package manager for .NET
-* Testing
-  * [Playwright](https://playwright.dev/) end-to-end testing for web apps
-  * [TestStack.White](https://teststackwhite.readthedocs.io/en/latest/ "TestStack.White")
+- [.NET Conf](https://www.dotnetconf.net/ ".NET Conf")
+- [.NET Decompiler - ILSpy](https://github.com/icsharpcode/ILSpy ".NET Decompiler")
+- [.NET Fiddle](https://dotnetfiddle.net/ ".NET Fiddle")
+- [.NET Foundation](https://dotnetfoundation.org/ ".NET Foundation")
+- [BASTA!](https://basta.net/ "BASTA!")
+- [C# Pad](https://csharppad.com/ "C# Pad")
+- [Channel 9](https://channel9.msdn.com/ "Channel 9")
+- [Microsoft .NET](https://dotnet.microsoft.com/ "Microsoft .NET")
+- [Microsoft Azure](https://azure.microsoft.com/ "Microsoft Azure")
+- [Microsoft Developer](https://developer.microsoft.com/ "Microsoft Developer")
+- [Microsoft Docs](https://docs.microsoft.com/ "Microsoft Docs")
+- [NuGet](https://www.nuget.org/) is the package manager for .NET
+- Testing
+  - [Playwright](https://playwright.dev/) end-to-end testing for web apps
+  - [TestStack.White](https://teststackwhite.readthedocs.io/en/latest/ "TestStack.White")
+
+## Tasks
+
+- Upgrade to .NET 6.0 LTS
