@@ -1,0 +1,13 @@
+#!/bin/bash
+#
+# Copyright (c) 2018 M. 'howlingmad' Neifer
+# Licensed under the MIT License. See LICENSE in the project root for license information.
+#
+
+docker create \
+  --tty \
+  --interactive \
+  --name fsharpsh \
+  --mount type=bind,source=`pwd`/scripts,target=/scripts \
+  fsharp:latest
+

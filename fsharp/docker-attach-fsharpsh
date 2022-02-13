@@ -1,0 +1,13 @@
+#!/bin/bash
+#
+# Copyright (c) 2018 M. 'howlingmad' Neifer
+# Licensed under the MIT License. See LICENSE in the project root for license information.
+#
+
+echo Attaching to F# shell container.
+echo Use CTRL-p CTRL-q to detach.
+echo "Use #quit to exit the interactive shell and destroy the container."
+
+docker attach \
+  fsharpsh
+
