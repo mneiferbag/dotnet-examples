@@ -48,4 +48,4 @@ Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get c
 
 ## Tasks
 
-- Upgrade container to .NET 6.0 LTS
+- Nil
