@@ -23,6 +23,13 @@ To replace .NET Core SDK on Ubuntu, for example replace 3.0 with 3.1, do:
 
 See [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-package-manager-ubuntu-1804) on [Microsoft Docs](https://docs.microsoft.com/).
 
+### Versions
+
+Version	Release type	Support phase	Latest release	Latest release date	
+- .NET 7.0 (Preview)
+- .NET 6.0 (latest, LTS), End of support: November 12, 2024
+- .NET Core 3.1 (LTS), End of support: December 13, 2022
+
 ## Tips
 
 Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get content from a web page on the internet. Like `curl` or `wget` on Linux.
