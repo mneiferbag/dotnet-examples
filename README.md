@@ -40,6 +40,7 @@ Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get c
 - [.NET Decompiler - ILSpy](https://github.com/icsharpcode/ILSpy ".NET Decompiler")
 - [.NET Fiddle](https://dotnetfiddle.net/ ".NET Fiddle")
 - [.NET Foundation](https://dotnetfoundation.org/ ".NET Foundation")
+- [.NET Web API Example](https://github.com/mneiferbag/dotnet-web-api)
 - [BASTA!](https://basta.net/ "BASTA!")
 - [C# Pad](https://csharppad.com/ "C# Pad")
 - [Channel 9](https://channel9.msdn.com/ "Channel 9")
