@@ -34,6 +34,8 @@ Version	Release type	Support phase	Latest release	Latest release date
 
 Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get content from a web page on the internet. Like `curl` or `wget` on Linux.
 
+dotnet-format is a code formatter for dotnet that applies style preferences to a project or solution. Preferences will be read from an .editorconfig file, if present, otherwise a default set of preferences will be used. dotnet-format is now part of the .NET 6 SDK.
+
 ## Links
 
 - [.NET Conf](https://www.dotnetconf.net/ ".NET Conf")
