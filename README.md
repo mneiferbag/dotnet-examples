@@ -52,6 +52,7 @@ Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get c
 - [RestSharp](https://restsharp.dev/) REST API client library
 - Testing
   - [Playwright](https://playwright.dev/) end-to-end testing for web apps
+  - [Stryker Mutator](https://stryker-mutator.io/) test your tests with mutation testing
   - [TestStack.White](https://teststackwhite.readthedocs.io/en/latest/ "TestStack.White")
 
 ## Tasks
