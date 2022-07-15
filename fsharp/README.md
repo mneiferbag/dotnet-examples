@@ -2,7 +2,7 @@
 
 Collection of [F#](https://fsharp.org/) code examples.
 
-Licensed under the MIT License. See LICENSE in the project root for license information.
+Licensed under the MIT License. See file LICENSE in the project root directory.
 
 ## Links
 - [F# Cheatsheet](http://dungpa.github.io/fsharp-cheatsheet/)

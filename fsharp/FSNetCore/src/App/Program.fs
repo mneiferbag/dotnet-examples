@@ -1,4 +1,9 @@
-﻿open System
+(*
+ * Copyright (c) 2019-2022 Markus Neifer
+ * Licensed under the MIT License.
+ * See file LICENSE in project root directory.
+ *)
+open System
 open Library
 
 [<EntryPoint>]
@@ -10,4 +15,3 @@ let main argv =
     |> Array.iter (printfn "%s")
 
     0 // return an integer exit code
-

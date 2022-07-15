@@ -1,7 +1,8 @@
 #!/bin/bash
 #
-# Copyright (c) 2018 M. 'howlingmad' Neifer
-# Licensed under the MIT License. See LICENSE in the project root for license information.
+# Copyright (c) 2018-2022 Markus Neifer
+# Licensed under the MIT License.
+# See file LICENSE in project root directory.
 #
 
 echo Attaching to F# shell container.
@@ -10,4 +11,3 @@ echo "Use #quit to exit the interactive shell and destroy the container."
 
 docker attach \
   fsharpsh
-
