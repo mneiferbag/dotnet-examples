@@ -34,13 +34,17 @@ Version	Release type	Support phase	Latest release	Latest release date
 
 Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get content from a web page on the internet. Like `curl` or `wget` on Linux.
 
+dotnet-format is a code formatter for dotnet that applies style preferences to a project or solution. Preferences will be read from an .editorconfig file, if present, otherwise a default set of preferences will be used. dotnet-format is now part of the .NET 6 SDK.
+
 ## Links
 
 - [.NET Conf](https://www.dotnetconf.net/ ".NET Conf")
 - [.NET Decompiler - ILSpy](https://github.com/icsharpcode/ILSpy ".NET Decompiler")
 - [.NET Fiddle](https://dotnetfiddle.net/ ".NET Fiddle")
 - [.NET Foundation](https://dotnetfoundation.org/ ".NET Foundation")
+- [.NET Web API Example](https://github.com/mneiferbag/dotnet-web-api)
 - [BASTA!](https://basta.net/ "BASTA!")
+- [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 - [C# Pad](https://csharppad.com/ "C# Pad")
 - [Channel 9](https://channel9.msdn.com/ "Channel 9")
 - [Microsoft .NET](https://dotnet.microsoft.com/ "Microsoft .NET")
@@ -50,7 +54,9 @@ Use `Invoke-WebRequest` cmdlet from module Microsoft.PowerShell.Utility to get c
 - [NuGet](https://www.nuget.org/) is the package manager for .NET
 - [RestSharp](https://restsharp.dev/) REST API client library
 - Testing
+  - [FlaUI](https://github.com/FlaUI/FlaUI) - .NET library which helps with automated UI testing of Windows applications
   - [Playwright](https://playwright.dev/) end-to-end testing for web apps
+  - [Stryker Mutator](https://stryker-mutator.io/) test your tests with mutation testing
   - [TestStack.White](https://teststackwhite.readthedocs.io/en/latest/ "TestStack.White")
 
 ## Tasks
