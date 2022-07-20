@@ -56,6 +56,7 @@ dotnet-format is a code formatter for dotnet that applies style preferences to a
 - Testing
   - [FlaUI](https://github.com/FlaUI/FlaUI) - .NET library which helps with automated UI testing of Windows applications
   - [Playwright](https://playwright.dev/) end-to-end testing for web apps
+  - [Scientist](https://github.com/scientistproject/Scientist.net) library for carefully refactoring critical paths
   - [Stryker Mutator](https://stryker-mutator.io/) test your tests with mutation testing
   - [Testing in .NET](https://docs.microsoft.com/en-us/dotnet/core/testing/)
   - [TestStack.White](https://teststackwhite.readthedocs.io/en/latest/ "TestStack.White")
