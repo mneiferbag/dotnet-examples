@@ -25,7 +25,6 @@ See [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.co
 
 ### Versions
 
-Version	Release type	Support phase	Latest release	Latest release date	
 - .NET 7.0 (Preview)
 - .NET 6.0 (latest, LTS), End of support: November 12, 2024
 - .NET Core 3.1 (LTS), End of support: December 13, 2022
