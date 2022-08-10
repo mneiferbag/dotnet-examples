@@ -51,7 +51,8 @@ dotnet-format is a code formatter for dotnet that applies style preferences to a
 - [Microsoft Developer](https://developer.microsoft.com/ "Microsoft Developer")
 - [Microsoft Docs](https://docs.microsoft.com/ "Microsoft Docs")
 - [NuGet](https://www.nuget.org/) is the package manager for .NET
-- [RestSharp](https://restsharp.dev/) REST API client library
+- [RestSharp](https://restsharp.dev/) - REST API client library
+- [Serilog](https://serilog.net/) - Simple .NET logging with fully-structured events
 - Testing
   - [FlaUI](https://github.com/FlaUI/FlaUI) - .NET library which helps with automated UI testing of Windows applications
   - [Playwright](https://playwright.dev/) end-to-end testing for web apps
